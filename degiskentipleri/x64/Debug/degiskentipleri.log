@@ -1,0 +1,4 @@
+﻿  degiskentipleri.cpp
+C:\Users\Ali\Desktop\degiskentipleri\degiskentipleri.cpp(21,9): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Ali\Desktop\degiskentipleri\degiskentipleri.cpp(27,9): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  degiskentipleri.vcxproj -> C:\Users\Ali\Desktop\degiskentipleri\x64\Debug\degiskentipleri.exe
