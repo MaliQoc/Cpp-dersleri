@@ -1,0 +1,5 @@
+﻿  nypozelliklerinegiris.cpp
+C:\Users\Ali\Desktop\nypozelliklerinegiris\nypozelliklerinegiris.cpp(28,17): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\Ali\Desktop\nypozelliklerinegiris\nypozelliklerinegiris.cpp(34,17): warning C4305: '=': 'double' iken 'float' olarak kesildi
+C:\Users\Ali\Desktop\nypozelliklerinegiris\nypozelliklerinegiris.cpp(35,18): warning C4305: '=': 'double' iken 'float' olarak kesildi
+  nypozelliklerinegiris.vcxproj -> C:\Users\Ali\Desktop\nypozelliklerinegiris\x64\Debug\nypozelliklerinegiris.exe
