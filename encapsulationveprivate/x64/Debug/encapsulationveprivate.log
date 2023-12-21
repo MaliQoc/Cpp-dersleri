@@ -1,0 +1,3 @@
+﻿  encapsulationveprivate.cpp
+C:\Users\Ali\Desktop\encapsulationveprivate\encapsulationveprivate.cpp(20,21): warning C4305: '=': 'double' iken 'float' olarak kesildi
+  encapsulationveprivate.vcxproj -> C:\Users\Ali\Desktop\encapsulationveprivate\x64\Debug\encapsulationveprivate.exe
