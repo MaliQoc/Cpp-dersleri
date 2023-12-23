@@ -1,0 +1,5 @@
+﻿  overridevepolimorphism.cpp
+C:\Users\Ali\Desktop\overridevepolimorphism\overridevepolimorphism.cpp(62,15): error C2039: 'ates': bir 'Silah' üyesi değil
+  C:\Users\Ali\Desktop\overridevepolimorphism\overridevepolimorphism.cpp(11,7):
+  'Silah' bildirimine bakın
+  
