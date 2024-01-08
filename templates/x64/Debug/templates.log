@@ -1,0 +1,15 @@
+﻿  templates.cpp
+C:\Users\Ali\Desktop\templates\templates.cpp(28,5): error C2084: 'int main(void)' işlevinin bir gövdesi zaten var
+  C:\Users\Ali\Desktop\templates\templates.cpp(13,5):
+  önceki 'main' tanımına bakın
+  
+C:\Users\Ali\Desktop\templates\templates.cpp(30,37): warning C4244: 'bağımsız değişken': 'double' - 'D' dönüşümü; veri kaybı olabilir
+C:\Users\Ali\Desktop\templates\templates.cpp(30,37): warning C4244:         with
+C:\Users\Ali\Desktop\templates\templates.cpp(30,37): warning C4244:         [
+C:\Users\Ali\Desktop\templates\templates.cpp(30,37): warning C4244:             D=int
+C:\Users\Ali\Desktop\templates\templates.cpp(30,37): warning C4244:         ]
+C:\Users\Ali\Desktop\templates\templates.cpp(30,32): warning C4244: 'bağımsız değişken': 'double' - 'C' dönüşümü; veri kaybı olabilir
+C:\Users\Ali\Desktop\templates\templates.cpp(30,32): warning C4244:         with
+C:\Users\Ali\Desktop\templates\templates.cpp(30,32): warning C4244:         [
+C:\Users\Ali\Desktop\templates\templates.cpp(30,32): warning C4244:             C=int
+C:\Users\Ali\Desktop\templates\templates.cpp(30,32): warning C4244:         ]
