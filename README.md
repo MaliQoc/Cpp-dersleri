@@ -6,14 +6,14 @@ Neden C öğrenmelisiniz?
 C++ C dilinin devamı olarak kabul edilir. Aralarındaki temel fark C++ dilinin Nesneye Yönelik Programlama(OOP) içermesidir. 1979 yılından itibaren geliştirilmeye başlanmıştır. Kurucusu Bjarne Stroustrup'tur. Orta seviyeli ve performanslı bir dildir. Bir o kadar da güvenli olmayan bir dildir. Bellek yönetimine izin veren bir dil olduğundan eğer dikkatli yapılmazsa bellek sızıntılarına neden olabilir. C++ ile yazılan dosyaların uzantısı .cpp dir.
 
 C++ ın kullanıldığı bazı alanlar
-Gömülü sistemler
-İşletim sistemleri
-Sürücü yazılımları
-Donanım dahilli sürücüler
-Grafik arayüzleri (GUI)
-Derleyici geliştirme
-Oyunlar (Unreal Engine) 
-Antivirüs programları
+. Gömülü sistemler
+. İşletim sistemleri
+. Sürücü yazılımları
+. Donanım dahilli sürücüler
+. Grafik arayüzleri (GUI)
+. Derleyici geliştirme
+. Oyunlar (Unreal Engine) 
+. Antivirüs programları
 
 Öğrenilecek bazı plaformlar
 
