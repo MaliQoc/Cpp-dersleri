@@ -10,7 +10,7 @@ C++ C dilinin devamı olarak kabul edilir. Aralarındaki temel fark C++ dilinin 
 Kurucusu Bjarne Stroustrup'tur. Orta seviyeli ve performanslı bir dildir. Bir o kadar da güvenli olmayan bir dildir. Bellek yönetimine izin veren bir dil olduğundan eğer dikkatli 
 yapılmazsa bellek sızıntılarına neden olabilir. C++ ile yazılan dosyaların uzantısı .cpp dir.
 
-3) C++ ın kullanıldığı bazı alanlar
+2) C++ ın kullanıldığı bazı alanlar
 - Gömülü sistemler
 - İşletim sistemleri
 - Sürücü yazılımları
